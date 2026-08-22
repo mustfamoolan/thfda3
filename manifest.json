@@ -1,11 +1,11 @@
 {
-    "name": "ui",
-    "short_name": "ui",
+    "name": "اللاعب البطولي - تحدي البارتي",
+    "short_name": "البارتي",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#121629",
+    "theme_color": "#9DFF00",
+    "description": "نظام تحدي البارتي والمواجهات التفاعلية الجماعية",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
